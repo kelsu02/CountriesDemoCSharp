@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{DAF4F1E4-EB93-4AE1-9C00-0A9FBCAE8BD4}|Default">
+  <MonoDevelop.Ide.ItemProperties.CountriesDemoApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountriesDemoApp/Program.cs">
+    <Files>
+      <File FileName="CountriesDemoApp/Program.cs" Line="20" Column="60" />
+      <File FileName="CountriesDemoApp/Country.cs" Line="2" Column="1" />
+      <File FileName="CountriesDemoApp/CsvReader.cs" Line="16" Column="49" />
+      <File FileName="CountriesDemoApp/PopulationFomatter.cs" Line="26" Column="53" />
+      <File FileName="CountriesDemoApp/loops.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CountriesDemoApp" expanded="True">
+            <Node name="CountriesDemoApp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
